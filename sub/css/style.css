@@ -1,0 +1,160 @@
+body{
+  font-family: "Montserrat";
+}
+#title{
+  background-color: #86C6F4;
+  color: #fff;
+
+}
+.mobile{
+  width: 130%;
+
+}
+#features{
+  padding-top: 7%;
+
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+h1{
+  font-family: 'Montserrat-black';
+  font-size: 4rem;
+  line-height: 1.5;
+}
+.navbar{
+padding:0 0 4.5rem;
+}
+.navbar-brand{
+  font-family: "Ubantu";
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+.nav-item{
+padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.8rem;
+  font-family: "Montserrat-light";
+  margin-left: 10px;
+}
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+h3{
+  font-family: "Montserrat-bold";
+  font-size: 1.5rem;
+  padding-top: 1.5rem;
+}
+p{
+  color: #41444B;
+  font-size: 1.5rem;
+}
+
+.fool{
+  text-align: center;
+  padding: 5%;
+}
+
+.self{
+ width: 70%
+
+}
+#vishal{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #9AD0EC;
+  color: #fff;
+
+}
+h2{
+  font-family: 'Montserrat-bold';
+  font-size: 4rem;
+  line-height: 1.5;
+}
+.trade{
+width: 20%;
+border-radius:100%;
+margin: 20px;
+}
+#press{
+  background-color: #9AD0EC;
+  text-align: center;
+  padding: 7% 4%;
+  padding-bottom: 3%;
+}
+.img{
+  width: 15%;
+margin: 20px 20px 50px;
+}
+.carousel-item{
+  padding: 2% 10%;
+}
+.aa{
+  text-align: center;
+  padding-top: 80px;
+}
+
+.bb{
+  text-align: center;
+    padding-bottom: 80px;
+}
+.imgs{
+  width: 80%;
+}
+.rows{
+  background-color: #9AD0EC;
+}
+.pk{
+
+}
+.imgs{
+  width: 60%;
+
+}
+@media (max-width: 988px) {
+  #title{
+    text-align: center;
+  }
+.mobile{
+    position: static;
+    width: 110%;
+  }
+}
+#ggg{
+  text-align: center;
+  color: #fff;
+  background-color: #86C6F4;
+  padding: 7% 15%;
+}
+#footer{
+  text-align: center;
+    padding: 7% 15%;
+  background-color: #fff;
+}
+.footer-link{
+margin:10px 20px;
+padding-bottom:20px;
+color:#2C3333;
+
+}
+.wds{
+  font-family: "Montserrat-black";
+  font-size: 3.5rem;
+  text-height:1.5;
+}
+.footer-link:hover{
+  color: #86C6F4;
+}
+.prerna{
+  font-size: 1rem;
+
+}
+#pricing{
+  text-align: center;
+  padding-bottom: 20px;
+}
+.featurette-heading{
+  text-align: center;
+}
